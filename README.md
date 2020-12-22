@@ -26,6 +26,7 @@ Mac 开源免费工具汇总, 只罗列开源好用的。
 
 ### 系统工具
 - [Amphetamine](https://itunes.apple.com/cn/app/amphetamine/id937984704) - 覆盖您的节能设置并让您的Mac保持清醒状态。 
+- [OmniDiskSweeper](https://www.omnigroup.com/more/)
 
 ### 菜单栏工具
 - [HiddenBar](https://github.com/dwarvesf/hidden) - 隐藏菜单栏图标。Freeware Open-Source Software
