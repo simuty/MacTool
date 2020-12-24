@@ -50,16 +50,18 @@ Mac 开源免费工具汇总, 只罗列开源好用的。
 - [You-Get](https://you-get.org/) - 网络富媒体命令行下载工具。Open-Source Software Freeware
 
 ## 浏览器插件
+[整理了一份全面的--chrome使用指南](https://simuty.github.io/2019/06/15/useChrome/)
 
-### 翻译工具
 - [Saladict 沙拉查词](https://saladict.crimx.com/)
-
-## 开发工具
+- [Octotree -- github侧边栏](https://www.octotree.io/)
 
 ### IDE 
-- [vscode](https://github.com/microsoft/vscode)
+
+1. [VSCode--不要太好用](https://github.com/microsoft/vscode)
+   1. [snippet生成工具🔧](https://snippet-generator.app/)
 
 ### 数据库
-- [DBeaver](https://github.com/dbeaver/dbeaver)
+- [DBeaver-多种数据库客户端](https://github.com/dbeaver/dbeaver)
+- [medis-redis客户端](https://github.com/luin/medis)
 
 
