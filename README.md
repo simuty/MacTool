@@ -26,7 +26,13 @@ Mac 开源免费工具汇总, 只罗列开源好用的。
 
 ### 系统工具
 - [Amphetamine](https://itunes.apple.com/cn/app/amphetamine/id937984704) - 覆盖您的节能设置并让您的Mac保持清醒状态。 
-- [OmniDiskSweeper](https://www.omnigroup.com/more/)
+- [🚩OmniDiskSweeper](https://www.omnigroup.com/more/) --- 分析文件大小
+- [SwitchHosts](https://github.com/oldj/SwitchHosts) --- 切换hosts
+
+### 终端
+- [🚩Tmux](https://wiki.archlinux.org/index.php/tmux)---Tmux和Vim一样属于字符终端软件，不需要任何GUI的支持，在远程登录时尤其有用。
+   - [📖博文：优雅地使用命令行：Tmux 终端复用](https://harttle.land/2015/11/06/tmux-startup.html)
+- [iTerm2](https://iterm2.com/) --- iTerm是一个GUI软件,简单好用。
 
 ### 菜单栏工具
 - [HiddenBar](https://github.com/dwarvesf/hidden) - 隐藏菜单栏图标。Freeware Open-Source Software
@@ -57,8 +63,10 @@ Mac 开源免费工具汇总, 只罗列开源好用的。
 
 ### IDE 
 
-1. [VSCode--不要太好用](https://github.com/microsoft/vscode)
+1. [🚩VSCode--不要太好用](https://github.com/microsoft/vscode)
    1. [snippet生成工具🔧](https://snippet-generator.app/)
+   2. 插件
+      1. [ohmyz--vscode终端颜色配置](https://ohmyz.sh/)
 
 ### 数据库
 - [DBeaver-多种数据库客户端](https://github.com/dbeaver/dbeaver)
