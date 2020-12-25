@@ -31,7 +31,7 @@ Mac 开源免费工具汇总, 只罗列开源好用的。
 
 ### 终端
 - [🚩Tmux](https://wiki.archlinux.org/index.php/tmux)---Tmux和Vim一样属于字符终端软件，不需要任何GUI的支持，在远程登录时尤其有用。
-   - [📖博文：优雅地使用命令行：Tmux 终端复用](https://harttle.land/2015/11/06/tmux-startup.html)
+   - [📖博文： tmux使用说明](https://houdunren.gitee.io/note/soft/tmux.html#tmux)
 - [iTerm2](https://iterm2.com/) --- iTerm是一个GUI软件,简单好用。
 
 ### 菜单栏工具
