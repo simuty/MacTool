@@ -7,6 +7,8 @@ Mac 开源免费工具汇总, 只罗列开源好用的。
 
 - [Homebrew](https://brew.sh/) - 体验通过命令行安装 Mac 软件的工具(大部分是命令行工具)。Open-Source Software Freeware
 - [Homebrew Cask](http://caskroom.github.io/) - 基于Homebrew扩展的，通过命令行安装 Mac GUI 软件的工具。Open-Source Software Freeware
+- [Homebrew search software ](https://formulae.brew.sh/)
+- [中科大换源](http://mirrors.ustc.edu.cn/)
 
 ## 安全工具
 - [LuLu](https://objective-see.com/products/lulu.html) - 免费的macOS防火墙，旨在阻止未经授权（传出）的网络流量。
@@ -61,8 +63,9 @@ Mac 开源免费工具汇总, 只罗列开源好用的。
 - [Saladict 沙拉查词](https://saladict.crimx.com/)
 - [Octotree -- github侧边栏](https://www.octotree.io/)
 
-### IDE 
+## 开发
 
+### IDE 
 1. [🚩VSCode--不要太好用](https://github.com/microsoft/vscode)
    1. [snippet生成工具🔧](https://snippet-generator.app/)
    2. 插件
@@ -71,5 +74,23 @@ Mac 开源免费工具汇总, 只罗列开源好用的。
 ### 数据库
 - [DBeaver-多种数据库客户端](https://github.com/dbeaver/dbeaver)
 - [medis-redis客户端](https://github.com/luin/medis)
+- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager/)
+
+### 工具列表
+
+| 工具  | 说明 |下载|
+|---|---|---|
+| virtualbox|虚拟机|brew install --cask virtualbox|
+| vscode  | 编辑器 | brew install --cask visual-studio-code |
+| postman  | 调试工具  | brew install --cask postman |
+| shiftit  | 窗口布局  | brew install --cask shiftit |
+| snipaste  | 截图工具  | brew install --cask snipaste |
+
+
+
+### [鹅厂推荐](https://www.zhihu.com/question/22867411/answer/911161400)
+
+- 
+
 
 
