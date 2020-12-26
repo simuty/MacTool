@@ -9,6 +9,7 @@ Mac 开源免费工具汇总, 只罗列开源好用的。
 - [Homebrew Cask](http://caskroom.github.io/) - 基于Homebrew扩展的，通过命令行安装 Mac GUI 软件的工具。Open-Source Software Freeware
 - [Homebrew search software ](https://formulae.brew.sh/)
 - [中科大换源](http://mirrors.ustc.edu.cn/)
+- [VMware Fusion](https://my.vmware.com/group/vmware/evalcenter?p=fusion-player-personal&source=dwnp)--虚拟机个人用户免费
 
 ## 安全工具
 - [LuLu](https://objective-see.com/products/lulu.html) - 免费的macOS防火墙，旨在阻止未经授权（传出）的网络流量。
@@ -93,6 +94,7 @@ Mac 开源免费工具汇总, 只罗列开源好用的。
 
 | 工具  | 说明 |下载|
 |---|---|---|
+| vmware-fusion | 虚拟机 | brew install --cask vmware-fusion |
 | ncdu|系统扫描|brew install ncdu|
 | htop  | 网络 | brew install htop |
 
