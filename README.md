@@ -84,13 +84,17 @@ Mac 开源免费工具汇总, 只罗列开源好用的。
 | vscode  | 编辑器 | brew install --cask visual-studio-code |
 | postman  | 调试工具  | brew install --cask postman |
 | shiftit  | 窗口布局  | brew install --cask shiftit |
+|dbeaver|数据库工具|brew install --cask dbeaver-community|
+|redis-desktop|redis工具|brew install --cask another-redis-desktop-manager|
 | snipaste  | 截图工具  | brew install --cask snipaste |
 
 
 
 ### [鹅厂推荐](https://www.zhihu.com/question/22867411/answer/911161400)
 
-- 
-
+| 工具  | 说明 |下载|
+|---|---|---|
+| ncdu|系统扫描|brew install ncdu|
+| htop  | 网络 | brew install htop |
 
 
