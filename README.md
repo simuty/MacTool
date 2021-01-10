@@ -41,7 +41,6 @@ Mac 开源免费工具汇总, 只罗列开源好用的。
 - [HiddenBar](https://github.com/dwarvesf/hidden) - 隐藏菜单栏图标。Freeware Open-Source Software
 
 ### 剪贴板工具
-- [Paste](http://pasteapp.me/) - 智能剪贴板历史片段管理
 - [CopyQ](https://github.com/hluk/CopyQ) - 高级功能剪贴板管理工具
 
 ### 窗口工具
