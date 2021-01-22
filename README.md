@@ -31,6 +31,7 @@ Mac 开源免费工具汇总, 只罗列开源好用的。
 - [Amphetamine](https://itunes.apple.com/cn/app/amphetamine/id937984704) - 覆盖您的节能设置并让您的Mac保持清醒状态。 
 - [🚩OmniDiskSweeper](https://www.omnigroup.com/more/) --- 分析文件大小
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) --- 切换hosts
+- [disk-inventory-x](http://www.derlien.com/) -- 分析文件大小 ➜  ~ brew install --cask disk-inventory-x
 
 ### 终端
 - [🚩Tmux](https://wiki.archlinux.org/index.php/tmux)---Tmux和Vim一样属于字符终端软件，不需要任何GUI的支持，在远程登录时尤其有用。
